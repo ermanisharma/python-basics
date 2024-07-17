@@ -1,0 +1,4 @@
+1. pip - to check if pip is install
+2. pip install numpy - Numeric python
+3. pip install scipy - science python
+4. pip install pandas - pandas

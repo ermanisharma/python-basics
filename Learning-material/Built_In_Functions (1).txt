@@ -1,0 +1,16 @@
+
+Python Built-in Functions
+ abs() all() bin() bool() bytes() callable() compile() exec() sum() any() ascii() bytearray() eval() float() format() frozenset() getattr() globals() hasattr() iter() len() list() locals() map() memoryview() object() open() ord() pow() print() reversed() range() round() str() tuple() type() vars() zip() chr() complex() delattr() dir() divmod() enumerate() dict() filter() hash() help() min() set() hex() id() setattr() slice() sorted() next() input() int() isinstance() oct()
+
+x = 101  
+def mainFunction():  
+   global x
+   print(x) # value 101 is printed
+   x = 'Welcome Team’  
+   print(x)  # vaue Welcome Team is printed
+  
+mainFunction()  
+print(x)  
+
+class Person:  def __init__(self, name, age):    self.name = name    self.age = agep1 = Person("John", 36)print(p1)
+
