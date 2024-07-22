@@ -1,0 +1,14 @@
+Pandas::
+1. Abbreviation to word 'Panel Data'
+   Panel - data that is derived from economic obeservations
+2. Objective : To identify relationship of a parameter with other parameter
+3. Developed by Wes McKinney, in year 2008
+4. Open Source library
+
+ Dependable & independable variables
+
+ Example : Any eCommerce website (Walmart)
+ -- Orders are placed for items in website //dependable variable
+ -- geographical location of customers, customer age, customer income, customer education
+
+https://pandas.pydata.org/docs/development/contributing.html
